@@ -91,7 +91,7 @@
     <div class="d-flex position-relative" style="max-width: 640rem;">
 
 
-        <a href="https://www.ifms.edu.br/noticias/2023/ultimos-dias-de-inscricao-para-bolsista-da-universidade-aberta-do-brasil"><img src="../../arquivos/imagens/uni.png" class=" img-thumbnail" alt="Notícia .1"></a>
+        <a href="https://www.ifms.edu.br/noticias/2023/ultimos-dias-de-inscricao-para-bolsista-da-universidade-aberta-do-brasil"><img src="../../arquivos/imagens/uni.png" class=" img-thumbnail" alt="Imagem do site do ifms de noticias"></a>
 
         <div>
 
@@ -113,7 +113,7 @@
     <div class="d-flex position-relative" style="max-width: 6240rem;">
 
 
-        <a href="https://www.ifms.edu.br/noticias/2023/relatorio-traz-os-resultados-institucionais-de-2022"><img src="../../arquivos/imagens/get.png" class=" img-thumbnail" alt="Notícia .2"></a>
+        <a href="https://www.ifms.edu.br/noticias/2023/relatorio-traz-os-resultados-institucionais-de-2022"><img src="../../arquivos/imagens/get.png" class=" img-thumbnail" alt="Imagem do site do ifms de noticias"></a>
 
         <div>
 
@@ -133,7 +133,7 @@
     <div class="d-flex position-relative" style="max-width: 6240rem;">
 
 
-        <a href="https://www.ifms.edu.br/noticias/2023/aberta-submissao-de-propostas-para-iniciacao-cientifica-e-tecnologica"><img src="../../arquivos/imagens/not.png" class=" img-thumbnail" alt="Notícia .3"></a>
+        <a href="https://www.ifms.edu.br/noticias/2023/aberta-submissao-de-propostas-para-iniciacao-cientifica-e-tecnologica"><img src="../../arquivos/imagens/not.png" class=" img-thumbnail" alt="Imagem do site do ifms de noticias"></a>
 
         <div>
 
@@ -153,7 +153,7 @@
     <div class="d-flex position-relative" style="max-width: 6240rem;">
 
 
-        <a href="https://www.ifms.edu.br/noticias/2023/jogos-do-ifms-serao-mais-uma-vez-em-dourados"><img src="../../arquivos/imagens/acv.png" class=" img-thumbnail" alt="Notícia .4"></a>
+        <a href="https://www.ifms.edu.br/noticias/2023/jogos-do-ifms-serao-mais-uma-vez-em-dourados"><img src="../../arquivos/imagens/acv.png" class=" img-thumbnail" alt="Imagem do site do ifms de noticias"></a>
 
         <div>
 

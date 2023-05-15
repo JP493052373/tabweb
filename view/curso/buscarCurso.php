@@ -45,7 +45,7 @@
                 $resultado = $conexao->query($sql);
                 if ($resultado->rowCount() > 0) {
             ?>
-                    <table class="table" sumary="Aqui mostra as Tabelas atualizadas">
+                    <table class="table" sumary="Aqui mostra as Tabelas atualizadas de Curso">
                         <thead>
                             <tr>
                                 <th scope="col">#</th>

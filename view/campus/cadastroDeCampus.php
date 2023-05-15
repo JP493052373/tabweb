@@ -78,7 +78,7 @@
             </div>
         </div>
         <div class="card">
-            <a href="https://midiamax.uol.com.br/cotidiano/emprego-concurso/2022/isencao-para-novos-alunos-de-cursos-tecnicos-da-ifms-termina-nesta-terca-feira/"><img src="../../arquivos/imagens/ea.jpeg" class="card-img-top" alt="Ifms imagem"></a>
+            <a href="https://midiamax.uol.com.br/cotidiano/emprego-concurso/2022/isencao-para-novos-alunos-de-cursos-tecnicos-da-ifms-termina-nesta-terca-feira/"><img src="../../arquivos/imagens/ea.jpeg" class="card-img-top" alt="Imagem do site do ifms de noticias"></a>
 
             <div class="card-body">
                 <h5 class="card-title">IFMS</h5>
@@ -87,7 +87,7 @@
             </div>
         </div>
         <div class="card">
-            <a href="https://www.ifms.edu.br/noticias/2023/ultimos-dias-de-inscricoes-para-bolsista-do-qualifica-mais"><img src="../../arquivos/imagens/bolsa.png" class="card-img-top" alt="qualifica imagem"></a>
+            <a href="https://www.ifms.edu.br/noticias/2023/ultimos-dias-de-inscricoes-para-bolsista-do-qualifica-mais"><img src="../../arquivos/imagens/bolsa.png" class="card-img-top" alt="Imagem do site do ifms de noticias"></a>
             <div class="card-body">
                 <h5 class="card-title">Últimos dias de inscrições para bolsista do Qualifica Mais</h5>
                 <p class="card-text">O Instituto Federal de Mato Grosso do Sul (IFMS) recebe até a próxima sexta-feira, 12, as inscrições para seleção de bolsistas que atuarão em cursos de Formação Inicial e Continuada (FIC) que serão ofertados em 2023 por meio do Programa Qualifica Mais EnergIF.</p>

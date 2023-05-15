@@ -103,7 +103,7 @@
     <div class="d-flex position-relative" style="max-width: 540rem;">
 
 
-        <a href="https://www.ifms.edu.br/noticias/2023/ultima-semana-de-inscricoes-para-o-curso-de-eletricista"><img src="../../arquivos/imagens/bolsa.png" class="img-thumbnail" alt="qualifica imagem"></a>
+        <a href="https://www.ifms.edu.br/noticias/2023/ultima-semana-de-inscricoes-para-o-curso-de-eletricista"><img src="../../arquivos/imagens/bolsa.png" class="img-thumbnail" alt="Imagem do site do ifms de noticias"></a>
 
         <div>
 

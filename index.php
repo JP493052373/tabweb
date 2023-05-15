@@ -69,7 +69,7 @@
             <div class="alert alert-primary" role="alert">
                 <h5 class="offcanvas-title" id="offcanvasRightLabel">É utilizada Porque?</h5>
                 <p> Para o desenvolvimento das aulas a distância, é utilizada a plataforma Moodle como Ambiente Virtual de Ensino e Aprendizagem (AVEA), permitindo a integração dos conteúdos disponibilizados, a interatividade, a formação de grupos de estudo, a produção colaborativa e a comunicação entre os atores envolvidos.</p>
-                <a href="https://ead.ifms.edu.br/"><img src="./arquivos/imagens/ms.png" class="card-img-top " alt="Moodle imagens"></a>
+                <a href="https://ead.ifms.edu.br/"><img src="./arquivos/imagens/ms.png" class="card-img-top " alt="Imagem do site do Moodle"></a>
 
 
             </div>
@@ -86,14 +86,14 @@
                 <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active" data-bs-interval="2000">
-                            <img src="./arquivos/imagens/ifms1.png" class="d-block w-100" alt="ifms">
+                            <img src="./arquivos/imagens/ifms1.png" class="d-block w-100" alt=" ALunos do comendo no refeitorio do ifms">
 
                         </div>
                         <div class="carousel-item" data-bs-interval="2000">
-                            <img src="./arquivos/imagens/ifms2.jpeg" class="d-block w-100" alt="ifms">
+                            <img src="./arquivos/imagens/ifms2.jpeg" class="d-block w-100" alt="Professores e os servidores do ifms fazendo uma reunião">
                         </div>
                         <div class="carousel-item">
-                            <img src="./arquivos/imagens/ifms3.jpeg" class="d-block w-100" alt="ifms">
+                            <img src="./arquivos/imagens/ifms3.jpeg" class="d-block w-100" alt="Pais do ifms reunião ">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
@@ -110,7 +110,7 @@
             </div>
             <div class="col-md-3">
                 <div class="card" style="width: 18rem;">
-                    <a href="https://chrome.google.com/webstore/detail/adblock-master/aalliemglapliaagpcgcjkcmidodoicc"><img src="./arquivos/imagens/todd.jpeg" class="card-img-top" alt="imagens aleatoria de propaganda"></a>
+                    <a href="https://chrome.google.com/webstore/detail/adblock-master/aalliemglapliaagpcgcjkcmidodoicc"><img src="./arquivos/imagens/todd.jpeg" class="card-img-top" alt="imagens aleatoria de propaganda do adblock"></a>
                     <div class="card-body">
                         <h5 class="card-title">AD Block Master</h5>
                         <p class="card-text">Cansado de Propagandas ? Clique no botão e visite a pagina de nosso adblock e desapareça com as Propagandas !!! </p>
