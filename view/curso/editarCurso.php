@@ -131,7 +131,7 @@
 
 
 
-    <a href="https://www.ifms.edu.br/noticias/2023/abertas-inscricoes-para-curso-de-microempreendedor-individual"><img src="../../arquivos/imagens/st.png" class="img-thumbnail" alt="..."></a>
+    <a href="https://www.ifms.edu.br/noticias/2023/abertas-inscricoes-para-curso-de-microempreendedor-individual"><img src="../../arquivos/imagens/st.png" class="img-thumbnail" alt="Imagem qualifica"></a>
 
     <div>
 

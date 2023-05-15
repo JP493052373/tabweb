@@ -33,11 +33,11 @@
             <div class="row mb-3">
                 <div class="col col-md-9">
                     <label class="form-label" for="idnome">Nome do Curso</label>
-                    <input class="form-control" type="text" name="nome" id="idnome">
+                    <input class="form-control" type="text" name="nome" id="idnome" required>
                 </div>
                 <div class="col col-md-3">
                     <label class="form-label" for="idnota">Nota do Curso</label>
-                    <input class="form-control" type="number" name="nota" id="idnota">
+                    <input class="form-control" type="number" name="nota" id="idnota" required>
                 </div>
             </div>
             <div class="row mb-3">
@@ -103,7 +103,7 @@
     <div class="d-flex position-relative" style="max-width: 540rem;">
 
 
-        <a href="https://www.ifms.edu.br/noticias/2023/ultima-semana-de-inscricoes-para-o-curso-de-eletricista"><img src="../../arquivos/imagens/bolsa.png" class="img-thumbnail" alt="..."></a>
+        <a href="https://www.ifms.edu.br/noticias/2023/ultima-semana-de-inscricoes-para-o-curso-de-eletricista"><img src="../../arquivos/imagens/bolsa.png" class="img-thumbnail" alt="qualifica imagem"></a>
 
         <div>
 
@@ -122,6 +122,7 @@
     </div>
 
 </body>
+
 
 
 

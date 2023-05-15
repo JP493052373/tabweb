@@ -70,7 +70,7 @@
 
     <div class="card-group">
         <div class="card">
-            <a href="https://www.ifms.edu.br/noticias/2023/semana-do-meio-ambiente-sera-realizada-em-dez-municipios"><img src="../../arquivos/imagens/tad.png" class="card-img-top" alt="..."></a>
+            <a href="https://www.ifms.edu.br/noticias/2023/semana-do-meio-ambiente-sera-realizada-em-dez-municipios"><img src="../../arquivos/imagens/tad.png" class="card-img-top" alt="Meio ambiente imagem"></a>
             <div class="card-body">
                 <h5 class="card-title">Semana do meio Ambiente</h5>
                 <p class="card-text">O Instituto Federal de Mato Grosso do Sul (IFMS) realiza a partir de 31 de maio mais uma edição da Semana do Meio Ambiente (SMA), realizada anualmente em celebração ao Dia Mundial do Meio Ambiente, comemorado em 5 de junho.</p>
@@ -78,7 +78,7 @@
             </div>
         </div>
         <div class="card">
-            <a href="https://midiamax.uol.com.br/cotidiano/emprego-concurso/2022/isencao-para-novos-alunos-de-cursos-tecnicos-da-ifms-termina-nesta-terca-feira/"><img src="../../arquivos/imagens/ea.jpeg" class="card-img-top" alt="..."></a>
+            <a href="https://midiamax.uol.com.br/cotidiano/emprego-concurso/2022/isencao-para-novos-alunos-de-cursos-tecnicos-da-ifms-termina-nesta-terca-feira/"><img src="../../arquivos/imagens/ea.jpeg" class="card-img-top" alt="Ifms imagem"></a>
 
             <div class="card-body">
                 <h5 class="card-title">IFMS</h5>
@@ -87,7 +87,7 @@
             </div>
         </div>
         <div class="card">
-            <a href="https://www.ifms.edu.br/noticias/2023/ultimos-dias-de-inscricoes-para-bolsista-do-qualifica-mais"><img src="../../arquivos/imagens/bolsa.png" class="card-img-top" alt="..."></a>
+            <a href="https://www.ifms.edu.br/noticias/2023/ultimos-dias-de-inscricoes-para-bolsista-do-qualifica-mais"><img src="../../arquivos/imagens/bolsa.png" class="card-img-top" alt="qualifica imagem"></a>
             <div class="card-body">
                 <h5 class="card-title">Últimos dias de inscrições para bolsista do Qualifica Mais</h5>
                 <p class="card-text">O Instituto Federal de Mato Grosso do Sul (IFMS) recebe até a próxima sexta-feira, 12, as inscrições para seleção de bolsistas que atuarão em cursos de Formação Inicial e Continuada (FIC) que serão ofertados em 2023 por meio do Programa Qualifica Mais EnergIF.</p>

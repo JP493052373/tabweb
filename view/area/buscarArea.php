@@ -42,7 +42,7 @@
                 $resultado = $conexao->query($sql);
                 if ($resultado->rowCount() > 0) {
             ?>
-                    <table class="table">
+                    <table class="table" sumary="Aqui mostra as Tabelas atualizadas">
                         <thead>
                             <tr>
                                 <th scope="col">#</th>
@@ -77,7 +77,7 @@
     <div class="d-flex position-relative" style="max-width: 540rem;">
 
 
-        <a href="https://www.ifms.edu.br/noticias/ifms-abre-curso-online-moodle-para-educadores#:~:text=Liberdade%20%C3%A9%20a%20palavra%20que,a%20dist%C3%A2ncia%20Moodle%20para%20Educadores."><img src="../../arquivos/imagens/muu.png" class="flex-shrink-0 me-3" alt="..."></a>
+        <a href="https://www.ifms.edu.br/noticias/ifms-abre-curso-online-moodle-para-educadores#:~:text=Liberdade%20%C3%A9%20a%20palavra%20que,a%20dist%C3%A2ncia%20Moodle%20para%20Educadores."><img src="../../arquivos/imagens/muu.png" class="flex-shrink-0 me-3" alt="Moole imagem"></a>
 
         <div>
 

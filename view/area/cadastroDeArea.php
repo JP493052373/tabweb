@@ -9,7 +9,7 @@
     <script src="https://code.jquery.com/jquery-3.6.4.min.js" integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script>
     <link href="../../arquivos/css/bootstrap.min.css" rel="stylesheet">
     <script src="../../arquivos/js/bootstrap.bundle.min.js"></script>
-    <script type="text/javascript" src=../../arquivos/js/busca.cep.js"></script>
+    <script type="text/javascript" src="../../arquivos/js/busca.cep.js"></script>
 </head>
 
 <body>
@@ -37,7 +37,7 @@
             <div class="row mb-3">
                 <div class="col col-md-12">
                     <label class="form-label" for="idnome">Nome</label>
-                    <input class="form-control" type="text" name="nome" id="idnome">
+                    <input class="form-control" type="text" name="nome" id="idnome" required>
                 </div>
             </div>
             <input class="btn btn-primary" type="submit" value="Salvar">
@@ -98,8 +98,15 @@
 
 
     <hr>
-    <p class="mb-0">Utilize a que você achar melhor .</p>
-    <p class="mb-0">Para saber mais sobre as áreas clique no botão abaixo para ser direcionado para o site .</p>
+
+
+    <caption> Utilize a que você achar melhor .</caption>
+    <p class="mb-0"></p>
+    <caption> Para saber mais sobre as áreas clique no botão abaixo para ser direcionado para o site .</caption>
+
+
+
+    <p class="mb-0"></p>
     <a href="https://www.gupy.io/blog/lista-de-profissoes#2-ci-ncias-biol-gicas" class="btn btn-success">Link</a>
 </div>
 

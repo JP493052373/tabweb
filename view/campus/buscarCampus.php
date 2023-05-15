@@ -42,7 +42,7 @@
                 $resultado = $conexao->query($sql);
                 if ($resultado->rowCount() > 0) {
             ?>
-                    <table class="table">
+                    <table class="table" sumary="Aqui mostra as Tabelas atualizadas">
                         <thead>
                             <tr>
                                 <th scope="col">#</th>
@@ -84,7 +84,7 @@
                 <div class="card card-body" style="width: 540px;">
                     <h1>Oque é um taco</h1>
                     Taco é uma comida típica do México que tem origem no Império Azteca. O taco mexicano original é feito com farinha de milho, sendo que o milho é tão popular no México como o feijão é no Brasil.
-                    <a href="https://www.tudoreceitas.com/receita-de-tacos-mexicanos-original-1592.html"><img src="../../arquivos/imagens/taco.jpeg" class="media-object  img-responsive img-thumbnail"></a>
+                    <a href="https://www.tudoreceitas.com/receita-de-tacos-mexicanos-original-1592.html"><img src="../../arquivos/imagens/taco.jpeg" class="media-object  img-responsive img-thumbnail" alt="imagem de um Taco"></a>
 
                 </div>
             </div>
