@@ -42,7 +42,8 @@
                 $resultado = $conexao->query($sql);
                 if ($resultado->rowCount() > 0) {
             ?>
-                    <table class="table" sumary="Aqui mostra as Tabelas atualizadas  da Área">
+                    <table class="table" sumary=" Tabelas  de Área Aqui mostra as Tabelas Área cadastrados">
+                        <Caption>"Tabelas de Área"></Caption>
                         <thead>
                             <tr>
                                 <th scope="col">#</th>
